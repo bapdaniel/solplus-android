@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.SolPlus" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/sol_primary_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/sol_bg_light</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="27">true</item>
+        <item name="android:windowBackground">@color/sol_bg_light</item>
+    </style>
+
+    <style name="Theme.SolPlus.Splash" parent="Theme.SolPlus">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:statusBarColor">@color/sol_primary_green</item>
+    </style>
+</resources>

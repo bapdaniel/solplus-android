@@ -1,0 +1,63 @@
+# Android / Gradle
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.iml
+.externalNativeBuild/
+.cxx/
+captures/
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Signing material (never commit private keys or passwords)
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+keystore.properties
+signing.properties
+
+# Secrets and service configuration
+.env
+.env.*
+!.env.example
+secrets.properties
+google-services.json
+service-account*.json
+
+# Generated packages and reports
+*.apk
+*.aab
+*.apks
+*.aar
+*.hprof
+lint-results*
+test-results/
+reports/
+
+# Logs, databases, backups and exported user/health data
+*.log
+logcat*.txt
+adb*.txt
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.json.bak
+*.backup
+*.bak
+backups/
+exports/
+health-data/
+patient-data/
+
+# Raw device/emulator evidence may contain identifiers or private data.
+artifacts/
+apk_instalaveis/

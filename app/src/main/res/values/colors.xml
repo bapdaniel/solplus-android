@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta Oficial SOL+ (Costela-de-Adão Variegata) -->
+    <color name="sol_primary_green">#0F4A32</color>
+    <color name="sol_primary_dark">#0B3624</color>
+    <color name="sol_sun_gold">#F59E0B</color>
+    <color name="sol_sun_gold_light">#FFF3DC</color>
+    <color name="sol_bg_light">#F8F6F0</color>
+    <color name="sol_card_surface">#FFFFFF</color>
+    <color name="sol_text_dark">#0F3826</color>
+    <color name="sol_text_secondary">#5A7367</color>
+
+    <!-- Estados Semânticos de Medicamento -->
+    <color name="status_pending_bg">#FFF3DC</color>
+    <color name="status_pending_text">#B45309</color>
+    <color name="status_confirmed_bg">#E6F4EA</color>
+    <color name="status_confirmed_text">#137333</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

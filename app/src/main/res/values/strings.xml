@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SOL+</string>
+    <string name="app_slogan">Seu cuidado, todos os dias.</string>
+
+    <!-- Notificações -->
+    <string name="channel_medication_name">Lembretes de Medicamentos</string>
+    <string name="channel_medication_desc">Alarmes pontuais para remédios da pressão e colírio</string>
+
+    <!-- Alerta Matinal (08:00) -->
+    <string name="morning_alert_title">Bom dia! Hora de cuidar da sua saúde.</string>
+    <string name="morning_question_bp">Você já tomou seu remédio da pressão?</string>
+    <string name="morning_question_eye">Você já aplicou o colírio nos dois olhos?</string>
+
+    <!-- Alerta Noturno (20:00) -->
+    <string name="night_alert_title">Boa noite! Hora do seu cuidado.</string>
+    <string name="night_question_eye">Você já aplicou o colírio nos dois olhos esta noite?</string>
+
+    <!-- Respostas e Botões Primários -->
+    <string name="btn_yes_taken">SIM, JÁ TOMEI</string>
+    <string name="btn_yes_applied">SIM, JÁ APLIQUEI</string>
+    <string name="btn_no_not_yet">NÃO, AINDA NÃO</string>
+
+    <!-- Opções Secundárias (quando toca em Não) -->
+    <string name="opt_take_now">Vou tomar agora</string>
+    <string name="opt_apply_now">Vou aplicar agora</string>
+    <string name="opt_remind_later">Lembrar novamente (em 15 min)</string>
+    <string name="opt_uncertain">Não sei se já tomei/apliquei</string>
+
+    <!-- Estados -->
+    <string name="status_scheduled">Programado</string>
+    <string name="status_pending">Pendente</string>
+    <string name="status_confirmed">Confirmado</string>
+    <string name="status_postponed">Adiado</string>
+    <string name="status_uncertain">Incerto</string>
+    <string name="status_not_confirmed">Não confirmado</string>
+    <string name="status_not_taken">Não realizado</string>
+
+    <!-- Tratamentos Padrão -->
+    <string name="med_bp_name">Remédio da pressão</string>
+    <string name="med_eye_morning_name">Colírio (Manhã)</string>
+    <string name="med_eye_night_name">Colírio (Noite)</string>
+    <string name="med_eye_generic_name">Colírio</string>
+    <string name="med_bp_instructions">Tomar 1 comprimido oral com água</string>
+    <string name="med_eye_instructions">Aplicar em ambos os olhos</string>
+
+    <!-- Acessibilidade e Ações -->
+    <string name="action_undo">Corrigir registro</string>
+    <string name="action_close">Fechar</string>
+</resources>

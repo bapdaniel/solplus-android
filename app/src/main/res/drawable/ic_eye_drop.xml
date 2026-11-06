@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Frasco / conta-gotas de colírio com gota saindo -->
+    <path
+        android:strokeColor="#176E4B"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M9,3 L15,3 M10,3 L10,6 M14,3 L14,6 M7,6 L17,6 L17,14 C17,17 14.5,19 12,19 C9.5,19 7,17 7,14 Z" />
+    <!-- Gota d'água caindo -->
+    <path
+        android:fillColor="#1B648C"
+        android:pathData="M12,19 C12,19 10.5,21 10.5,22 C10.5,22.8 11.2,23.5 12,23.5 C12.8,23.5 13.5,22.8 13.5,22 C13.5,21 12,19 12,19 Z" />
+</vector>

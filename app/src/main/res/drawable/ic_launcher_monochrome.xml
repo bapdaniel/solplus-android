@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Disco Solar -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M54,34 A20,20 0 1,1 53.99,34 Z" />
+    <!-- Raios Cardeais -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M51,20 L57,20 L57,32 L51,32 Z M51,76 L57,76 L57,88 L51,88 Z M76,51 L88,51 L88,57 L76,57 Z M20,51 L32,51 L32,57 L20,57 Z" />
+    <!-- Símbolo de Saúde recortado (Vazado no centro) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,44 L57,44 L57,64 L51,64 Z M44,51 L64,51 L64,57 L44,57 Z" />
+</vector>

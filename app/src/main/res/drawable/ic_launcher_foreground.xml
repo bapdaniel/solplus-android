@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- SOL DOURADO NASCENTE (Safe Zone: Centro 54, 54) -->
+    <!-- Raios Solares Dourados -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M63,22 L67,22 A2,2 0 0,1 69,24 L68,32 A1,1 0 0,1 66,33 L64,33 A1,1 0 0,1 62,32 L61,24 A2,2 0 0,1 63,22 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M81,29 L85,32 A2,2 0 0,1 86,35 L80,41 A1,1 0 0,1 78,40 L76,38 A1,1 0 0,1 77,36 L79,30 A2,2 0 0,1 81,29 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M88,49 L88,53 A2,2 0 0,1 86,55 L78,54 A1,1 0 0,1 77,52 L77,50 A1,1 0 0,1 78,48 L86,47 A2,2 0 0,1 88,49 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M43,29 L47,26 A2,2 0 0,1 50,28 L51,35 A1,1 0 0,1 50,37 L48,38 A1,1 0 0,1 46,37 L41,32 A2,2 0 0,1 43,29 Z" />
+
+    <!-- Disco Solar Dourado -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M65,34 A18,18 0 1,1 64.99,34 Z" />
+
+    <!-- FOLHA COSTELA-DE-ADÃO VARIEGATA -->
+    <!-- Metade Esquerda da Folha (Verde Escuro) -->
+    <path
+        android:fillColor="#0D3F2A"
+        android:pathData="M51,41 C42,42 32,49 29,58 C28,63 29,68 31,73 C32,74 34,73 34,72 C37,67 40,63 45,61 C47,60 48,62 48,63 C44,69 42,75 44,82 C45,85 48,87 51,86 C52,85 53,84 52,82 C50,77 51,72 54,67 C54,66 56,66 56,68 C55,74 56,79 58,84 C60,87 63,89 66,87 L52,44 Z" />
+
+    <!-- Recorte de Fenestração da Folha (Lado Esquerdo) -->
+    <path
+        android:fillColor="#0D3F2A"
+        android:pathData="M51,41 C49,40 46,41 44,43 C38,47 35,53 37,60 C38,63 40,62 40,59 C39,55 42,50 46,47 C48,46 50,43 51,41 Z" />
+
+    <!-- Metade Direita da Folha (Creme Variegata Claro) -->
+    <path
+        android:fillColor="#FDFBF7"
+        android:pathData="M52,44 L66,87 C71,86 76,83 79,78 C80,75 79,73 77,74 C72,75 66,74 62,70 C60,68 62,67 64,67 C69,67 75,65 80,60 C82,58 81,55 79,56 C74,57 68,56 63,52 C61,50 63,49 65,49 C71,49 77,46 80,40 C81,38 79,37 77,37 C72,39 66,39 61,38 C57,36 54,40 52,44 Z" />
+
+    <!-- Nervura Central -->
+    <path
+        android:strokeColor="#0D3F2A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M51,41 C54,54 59,70 66,87" />
+
+    <!-- SÍMBOLO DOURADO '+' DO SOL+ (Cuidado e Saúde) -->
+    <!-- Barra Vertical do + -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M78,65 L84,65 A2,2 0 0,1 86,67 L86,85 A2,2 0 0,1 84,87 L78,87 A2,2 0 0,1 76,85 L76,67 A2,2 0 0,1 78,65 Z" />
+    <!-- Barra Horizontal do + -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M69,73 L93,73 A2,2 0 0,1 95,75 L95,79 A2,2 0 0,1 93,81 L69,81 A2,2 0 0,1 67,79 L67,75 A2,2 0 0,1 69,73 Z" />
+</vector>

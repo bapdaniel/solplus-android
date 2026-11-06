@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Cápsula / Comprimido inclinado 45 graus com divisão nítida -->
+    <path
+        android:fillColor="#176E4B"
+        android:pathData="M6,3 C4.34,3 3,4.34 3,6 C3,7.66 4.34,9 6,9 L10,9 L10,3 L6,3 Z"
+        android:strokeWidth="1" />
+    <path
+        android:fillColor="#FFC75D"
+        android:pathData="M10,3 L14,3 C15.66,3 17,4.34 17,6 C17,7.66 15.66,9 14,9 L10,9 L10,3 Z" />
+    <!-- Versão de cápsula rotacionada centralizada -->
+    <group
+        android:pivotX="12"
+        android:pivotY="12"
+        android:rotation="-45">
+        <path
+            android:fillColor="#176E4B"
+            android:pathData="M6,8 A4,4 0 0,1 12,8 L12,12 L6,12 Z" />
+        <path
+            android:fillColor="#FFC75D"
+            android:pathData="M6,12 L12,12 L12,16 A4,4 0 0,1 6,16 Z" />
+        <path
+            android:strokeColor="#213B32"
+            android:strokeWidth="1.5"
+            android:pathData="M6,8 A4,4 0 0,1 12,8 L12,16 A4,4 0 0,1 6,16 Z" />
+        <path
+            android:strokeColor="#213B32"
+            android:strokeWidth="1.5"
+            android:pathData="M6,12 L12,12" />
+    </group>
+</vector>

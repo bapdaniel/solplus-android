@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- SOL DOURADO NASCENTE ATRÁS DA FOLHA -->
+    <!-- Raios solares -->
+    <!-- Raio Topo -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M70,12 L76,12 A3,3 0 0,1 79,15 L77,26 A2,2 0 0,1 74,27 L72,27 A2,2 0 0,1 69,26 L67,15 A3,3 0 0,1 70,12 Z" />
+    <!-- Raio Nordeste -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M94,22 L99,26 A3,3 0 0,1 100,30 L93,37 A2,2 0 0,1 90,36 L89,35 A2,2 0 0,1 89,32 L91,24 A3,3 0 0,1 94,22 Z" />
+    <!-- Raio Leste -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M102,48 L102,54 A3,3 0 0,1 99,57 L88,55 A2,2 0 0,1 87,53 L87,51 A2,2 0 0,1 88,49 L99,47 A3,3 0 0,1 102,48 Z" />
+    <!-- Raio Noroeste -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M44,22 L49,18 A3,3 0 0,1 53,20 L55,29 A2,2 0 0,1 54,32 L52,33 A2,2 0 0,1 49,32 L43,26 A3,3 0 0,1 44,22 Z" />
+
+    <!-- Disco Solar Dourado -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M74,28 A24,24 0 0,1 98,52 A24,24 0 0,1 74,76 A24,24 0 0,1 50,52 A24,24 0 0,1 74,28 Z" />
+
+    <!-- FOLHA COSTELA-DE-ADÃO VARIEGATA -->
+    <!-- Base da Folha / Caule -->
+    <path
+        android:strokeColor="#0F4A32"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M24,102 C32,92 42,80 50,68" />
+
+    <!-- Metade Esquerda da Folha (Verde Floresta Nobre #0F4A32) com Fenestrações Recortadas -->
+    <path
+        android:fillColor="#0F4A32"
+        android:pathData="M52,38 C40,40 28,48 24,60 C22,66 23,73 26,79 C27,81 29,80 30,78 C33,72 38,67 44,64 C46,63 48,65 47,67 C43,74 40,82 42,90 C43,94 47,97 51,96 C53,95 53,93 52,91 C50,85 51,78 54,72 C55,70 57,71 57,73 C56,80 57,87 60,93 C62,97 66,99 70,97 L54,42 Z" />
+
+    <!-- Recortes internos característicos da Costela-de-Adão (Lado Esquerdo) -->
+    <path
+        android:fillColor="#0F4A32"
+        android:pathData="M52,38 C50,37 46,38 43,40 C35,45 32,53 34,62 C35,66 38,65 38,61 C37,55 40,49 46,46 C49,44 51,41 52,38 Z" />
+
+    <!-- Metade Direita da Folha (Creme Variegata #FDFBF7) com Lóbulos e Nervuras -->
+    <path
+        android:fillColor="#FDFBF7"
+        android:pathData="M54,42 L70,97 C76,96 82,92 86,86 C88,83 87,80 84,81 C77,83 70,81 65,76 C63,74 65,72 67,72 C74,72 81,70 87,64 C90,61 89,58 86,59 C79,61 72,59 66,54 C64,52 66,50 68,50 C76,50 84,46 88,38 C89,36 87,34 85,35 C78,38 70,38 64,36 C59,34 56,38 54,42 Z" />
+
+    <!-- Nervura Central de Transição Suave -->
+    <path
+        android:strokeColor="#0F4A32"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M52,38 C56,54 62,75 70,97" />
+
+    <!-- SÍMBOLO DOURADO '+' DO SOL+ (Saúde e Cuidado) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M88,72 L96,72 A2,2 0 0,1 98,74 L98,80 A2,2 0 0,0 100,82 L106,82 A2,2 0 0,1 108,84 L108,90 A2,2 0 0,1 106,92 L100,92 A2,2 0 0,0 98,94 L98,100 A2,2 0 0,1 96,102 L90,102 A2,2 0 0,1 88,100 L88,94 A2,2 0 0,0 86,92 L80,92 A2,2 0 0,1 78,90 L78,84 A2,2 0 0,1 80,82 L86,82 A2,2 0 0,0 88,80 L88,74 A2,2 0 0,1 90,72 Z" />
+</vector>

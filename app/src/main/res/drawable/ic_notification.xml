@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Sol estilizado de 24dp -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,6 A6,6 0 1,0 12.01,6 Z" />
+    <!-- Raios solares -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M11,1 h2 v3 h-2 z M11,20 h2 v3 h-2 z M1,11 h3 v2 h-3 z M20,11 h3 v2 h-3 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M4.22,4.22 l1.42,-1.42 l2.12,2.12 l-1.42,1.42 z M16.24,16.24 l1.42,-1.42 l2.12,2.12 l-1.42,1.42 z M4.22,19.78 l2.12,-2.12 l1.42,1.42 l-2.12,2.12 z M16.24,7.76 l2.12,-2.12 l1.42,1.42 l-2.12,2.12 z" />
+    <!-- Símbolo + vazado no centro -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M11.2,9.2 h1.6 v5.6 h-1.6 z M9.2,11.2 h5.6 v1.6 h-5.6 z" />
+</vector>
